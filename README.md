@@ -1,4 +1,4 @@
-# HMM_smFRET
+# HMM_smFRET AI
 Repository holding work conducted under the University of California: Los Angeles, Department of Chemistry, Shimon Weiss Biophysics Laboratory researching a new HMM model for smFRET analysis.
 
 ## General Notes:
